@@ -1,7 +1,7 @@
 # webpack核心基础配置
 
 ### 什么是webpack?
-> webpack是模块打包机:它做的事情是分析你的项目结构，找到javasript模块以及其他一些浏览器不能直接运行的拓展语言(sass,Typescript等)，将其找到转换和打包为合适的格式供浏览器使用。在3.0出现后webpack还肩负起了优化的责任
+> webpack是模块打包机:它做的事情是分析你的项目结构，找到javasript模块以及其他一些浏览器不能直接运行的拓展语言(sass,Typescript等)，将其找到转换和打包为合适的格式供浏览器使用。在3.0出现后webpack还肩负起了优化的责任
 
 这段话有三个重点:
 
@@ -13,7 +13,7 @@
 > webpack官方推荐的安装方式是在项目局部安装，通过node的npm安装
 
 ```
-# 首先创建项目并进入项目
+# 首先创建项目并进入项目
 mkdir webpack_demo
 cd webpack_demo
 # 初始化npm
