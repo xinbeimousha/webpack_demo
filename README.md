@@ -21,7 +21,6 @@ npm init
 #安装webpack
 npm install webpack --save-dev
 ```
-<<<<<<< HEAD
 
 ### 用webpack打包
 > 最简单粗暴的打包方式是直接在命令行输入对应的指令和指定的文件进行转换，因为考虑到实际项目中完全用不到这种方式，就直接略过。在项目根目录下新建webpack.config.js文件，webpack相对应的操作就全部写入该文件
@@ -41,5 +40,4 @@ module.exports = {
     devServer:{}
 }
 ```
-=======
->>>>>>> 048091061511c8830e85bf88be064b33967a8a7e
+
